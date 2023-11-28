@@ -1,6 +1,8 @@
-# Spencer swueste@ucsd.edu
+# Sample Website
 
-# B07 Lindsey Khostas
+## Spencer swueste@ucsd.edu
+
+## B07 Lindsey Khostas
 
 1. What is the most interesting topic covered in your domain this quarter?
 The utilization of graph machine learning in chip design. I liked learning about embeddings and representations of chip design graphs being applied to problems within chip design like congestion and timing. 
